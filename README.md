@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-I'm **Dinesh Kumar**, a passionate **Java Backend Developer** with expertise in building scalable, high-performance applications using modern technologies and best practices. Currently pursuing advanced proficiency in full-stack development, cloud computing, and emerging technologies.
+I'm **Dinesh Rajasekhar**, a passionate **Java Backend Developer** with expertise in building scalable, high-performance applications using modern technologies and best practices. Currently pursuing advanced proficiency in full-stack development, cloud computing, and emerging technologies.
 
 ---
 
@@ -14,17 +14,13 @@ I'm **Dinesh Kumar**, a passionate **Java Backend Developer** with expertise in 
 - **Dependency Injection & IoC**: Spring Framework concepts
 
 ### Database & Query Optimization
-- **Relational Databases**: MySQL, PostgreSQL, Oracle
+- **Relational Databases**: MySQL, PostgreSQL, SQL Server
 - **Query Expertise**: Complex queries, Joins, Subqueries, Window Functions
 - **Query Optimization**: Indexing, Execution Plans, Performance Tuning
 - **Transaction Management**: ACID properties, Isolation Levels
 
 ### Data Structures & Algorithms
 - Array & String Manipulation
-- Linked Lists, Stacks, Queues
-- Trees & Graph Algorithms (BFS, DFS, Dijkstra's, etc.)
-- Dynamic Programming, Greedy Algorithms
-- Sorting & Searching Algorithms
 
 ### Web Technologies
 - **Frontend**: HTML5, CSS3, JavaScript, React.js
@@ -34,12 +30,11 @@ I'm **Dinesh Kumar**, a passionate **Java Backend Developer** with expertise in 
 
 ### Tools & Platforms
 - IDEs: IntelliJ IDEA, Eclipse, VS Code, Spring Tool Suite (STS)
-- Build Tools: Maven, Gradle
+- Build Tools: Maven
 - Version Control: Git, GitHub
 - Databases: MySQL Workbench, pgAdmin
 - Competitive Programming: LeetCode, GeeksforGeeks, Code360
 - Cloud Platforms: OCI (Oracle Cloud)
-- Testing: JUnit
 
 ---
 
@@ -139,10 +134,10 @@ I'm always open to discussions about:
 - Internship and job opportunities
 
 ### 🔗 Connect With Me
-- **LinkedIn**: [Dinesh Kumar](https://www.linkedin.com/in/dineshrd0503)
+- **LinkedIn**: [Dinesh Rajasekhar](www.linkedin.com/in/dinesh--rajasekhar)
 - **GitHub**: [Dineshrd0503](https://github.com/Dineshrd0503)
-- **LeetCode**: [dineshrd0503](https://leetcode.com/dineshrd0503)
-- **Email**: dineshrd0503@gmail.com
+- **LeetCode**: [dineshrd0503](https://leetcode.com/u/5oVFATSApA/)
+- **Email**: ananddinesh00399@gmail.com
 
 ---
 
@@ -156,15 +151,6 @@ I'm always open to discussions about:
 - ✅ IEEE Student Member
 - ✅ Hackathon Participant
 
----
-
-## 📝 Fun Facts
-
-- 🌙 I code best between 2 AM - 5 AM
-- ☕ Powered by coffee and DSA problems
-- 🎮 Love competitive programming challenges
-- 📖 Believe in continuous learning
-- 🌍 Open to remote opportunities worldwide
 
 ---
 
